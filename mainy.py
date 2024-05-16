@@ -3,6 +3,8 @@ from pytube import YouTube, Playlist
 import os 
 from datetime import datetime
 
+destination_folder = './downloaded/'
+
 def downloadSongs(songList):
     succedList = []
     failDict = {}
@@ -10,7 +12,7 @@ def downloadSongs(songList):
         try:
             yt = YouTube(song) 
             video = yt.streams.filter(only_audio=True).first() 
-            destination = './pobrane'
+            destination = destination_folder
             out_file = video.download(output_path=destination) 
             base, ext = os.path.splitext(out_file) 
             new_file = base + '.mp3'
@@ -32,7 +34,7 @@ def downloadPlaylist(playlist_url):
                     yt = YouTube(video)
                     audio_stream = yt.streams.filter(only_audio=True).first()
 
-                    destination = './pobrane'
+                    destination = destination_folder
 
                     out_file = audio_stream.download(output_path=destination)
                     base, ext = os.path.splitext(out_file)
