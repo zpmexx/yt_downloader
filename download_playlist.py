@@ -1,13 +1,9 @@
 from pytube import Playlist, YouTube
 import os
 
-# Your playlist URL
-
-
-# List to store successful downloads and dictionary to store failed downloads
-succedPlaylistList = []
-failPlaylistDict = {}
 def downloadPlaylist(playlist_url):
+    succedPlaylistList = []
+    failPlaylistDict = {}
 #playlist_url = "https://youtube.com/playlist?list=PL7MLhOHeVv7tqsPi0HwgSlPgARfxZKByt&si=wVrGHkl5Yuq2kNTB"
     try:
         playlist = Playlist(playlist_url)

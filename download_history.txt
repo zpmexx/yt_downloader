@@ -1,2 +1,820 @@
 2024-05-16 23:16:50
 Brak piosenek w pliku songs.txt.
+2024-05-21 20:13:41
+Udane pobrania:
+https://www.youtube.com/watch?v=WtePlmvUacU
+https://www.youtube.com/watch?v=1k4DMbAgMDs
+https://www.youtube.com/watch?v=0nA7sthzl2E
+https://www.youtube.com/watch?v=7aWb14Di1CM
+
+Udane pobrania z playlisty:
+https://www.youtube.com/watch?v=kFMZUxX6K6o
+https://www.youtube.com/watch?v=pRpeEdMmmQ0
+https://www.youtube.com/watch?v=5EVhiBGvVFc
+https://www.youtube.com/watch?v=7-7knsP2n5w
+https://www.youtube.com/watch?v=MoHnffhBwqs
+https://www.youtube.com/watch?v=9CLy_vQax-g
+https://www.youtube.com/watch?v=vyDjFVZgJoo
+https://www.youtube.com/watch?v=GIZCNDTDEi4
+https://www.youtube.com/watch?v=p6E9R9qv1No
+https://www.youtube.com/watch?v=hkYomdjLkAk
+https://www.youtube.com/watch?v=wAg60QJmIS0
+https://www.youtube.com/watch?v=TGtWWb9emYI
+https://www.youtube.com/watch?v=9lyNR0UMVic
+https://www.youtube.com/watch?v=jzVrWLNlKAE
+https://www.youtube.com/watch?v=pSbK6Ln72b8
+https://www.youtube.com/watch?v=rb0bjyt1OD0
+https://www.youtube.com/watch?v=IwzkfMmNMpM
+
+--------------------------------------------------
+Nieudane pobrania z playlisty:
+https://www.youtube.com/watch?v=BAkqJT_sMKQ - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=WTJSt4wP2ME - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=9BMwcO6_hyA - 'NoneType' object has no attribute 'span'
+--------------------------------------------------
+2024-05-22 22:55:21
+Udane pobrania:
+https://www.youtube.com/watch?v=M9OxZk9c71s
+https://www.youtube.com/watch?v=1362ZNUN-gA
+
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=yt0TUeELSWg - yt0TUeELSWg is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=H_o5t7-b9_0 - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=WCnKWoMi3uE - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=KrfvZWzVgqw - KrfvZWzVgqw is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=xXKlVZ67vY0 - xXKlVZ67vY0 is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=Uf4FCzeSSU8 - 'NoneType' object has no attribute 'span'
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-05-22 22:57:02
+Udane pobrania:
+https://www.youtube.com/watch?v=H_o5t7-b9_0
+
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=KrfvZWzVgqw - KrfvZWzVgqw is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=yt0TUeELSWg - yt0TUeELSWg is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=xXKlVZ67vY0 - xXKlVZ67vY0 is age restricted, and can't be accessed without logging in.
+https://www.youtube.com/watch?v=WCnKWoMi3uE - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=Uf4FCzeSSU8 - 'NoneType' object has no attribute 'span'
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-05-22 22:57:37
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=Uf4FCzeSSU8 - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=WCnKWoMi3uE - 'NoneType' object has no attribute 'span'
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-05-22 22:59:39
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=rmao2JCalIw - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=tNIYQmlQ96Y - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=8ID9jnptmoI - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=bvOfkPtU9fA - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=67vw5UTUG_w - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=chjCT7c067k - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=z1TMYlWHDvY - 'NoneType' object has no attribute 'span'
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-05-22 23:02:45
+Udane pobrania:
+https://www.youtube.com/watch?v=tNIYQmlQ96Y
+https://www.youtube.com/watch?v=bvOfkPtU9fA
+
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=rmao2JCalIw - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=z1TMYlWHDvY - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=8ID9jnptmoI - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=chjCT7c067k - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=67vw5UTUG_w - 'NoneType' object has no attribute 'span'
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-05-22 23:03:40
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=8ID9jnptmoI - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=z1TMYlWHDvY - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=rmao2JCalIw - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=67vw5UTUG_w - 'NoneType' object has no attribute 'span'
+https://www.youtube.com/watch?v=chjCT7c067k - 'NoneType' object has no attribute 'span'
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-05-22 23:05:54
+Udane pobrania:
+https://www.youtube.com/watch?v=67vw5UTUG_w
+https://www.youtube.com/watch?v=z1TMYlWHDvY
+https://www.youtube.com/watch?v=chjCT7c067k
+https://www.youtube.com/watch?v=rmao2JCalIw
+https://www.youtube.com/watch?v=8ID9jnptmoI
+
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-06-03 19:36:21
+Brak piosenek w pliku songs.txt.
+Udane pobrania z playlisty:
+https://www.youtube.com/watch?v=ek2PDE1cAyY
+https://www.youtube.com/watch?v=6J1-eYBbspA
+https://www.youtube.com/watch?v=kPBzTxZQG5Q
+https://www.youtube.com/watch?v=UJhFrSL0AZk
+https://www.youtube.com/watch?v=-QTNFALG3U0
+https://www.youtube.com/watch?v=2Vv-BfVoq4g
+https://www.youtube.com/watch?v=aJOTlE1K90k
+https://www.youtube.com/watch?v=PIh2xe4jnpk
+https://www.youtube.com/watch?v=euCqAq6BRa4
+https://www.youtube.com/watch?v=RnBT9uUYb1w
+https://www.youtube.com/watch?v=GsF05B8TFWg
+https://www.youtube.com/watch?v=p_RqWocthcc
+https://www.youtube.com/watch?v=TJNmpHn6Vvk
+https://www.youtube.com/watch?v=AtKZKl7Bgu0
+https://www.youtube.com/watch?v=C_3d6GntKbk
+https://www.youtube.com/watch?v=iAP9AF6DCu4
+https://www.youtube.com/watch?v=oofSnsGkops
+https://www.youtube.com/watch?v=bo_efYhYU2A
+https://www.youtube.com/watch?v=9Ke4480MicU
+https://www.youtube.com/watch?v=OpQFFLBMEPI
+https://www.youtube.com/watch?v=PT2_F-1esPk
+https://www.youtube.com/watch?v=wSdT-SArM2Q
+https://www.youtube.com/watch?v=fV4DiAyExN0
+https://www.youtube.com/watch?v=-HjpL-Ns6_A
+https://www.youtube.com/watch?v=HLphrgQFHUQ
+https://www.youtube.com/watch?v=nSDgHBxUbVQ
+https://www.youtube.com/watch?v=lp-EO5I60KA
+https://www.youtube.com/watch?v=B10Xe5Gm5cY
+https://www.youtube.com/watch?v=QJO3ROT-A4E
+https://www.youtube.com/watch?v=RQUuqbzQVsY
+https://www.youtube.com/watch?v=p-Z3YrHJ1sU
+https://www.youtube.com/watch?v=CIJ6vb3b4T0
+https://www.youtube.com/watch?v=tDq3fNew1rU
+https://www.youtube.com/watch?v=SJOKlqJho8U
+https://www.youtube.com/watch?v=0s3o1kXlxzo
+https://www.youtube.com/watch?v=h2dg1NUx8CI
+https://www.youtube.com/watch?v=uelHwf8o7_U
+https://www.youtube.com/watch?v=tg00YEETFzg
+https://www.youtube.com/watch?v=SA7AIQw-7Ms
+https://www.youtube.com/watch?v=GAd4ItXHBVE
+https://www.youtube.com/watch?v=pjTj-_55WZ8
+https://www.youtube.com/watch?v=nIjVuRTm-dc
+https://www.youtube.com/watch?v=wcXAKhwsl6o
+https://www.youtube.com/watch?v=Y0pdQU87dc8
+https://www.youtube.com/watch?v=3WWwuA6twKI
+https://www.youtube.com/watch?v=yihUfPJ_WiY
+https://www.youtube.com/watch?v=h4wzv5FNHzo
+https://www.youtube.com/watch?v=pE49WK-oNjU
+https://www.youtube.com/watch?v=ByfFurjQDb0
+https://www.youtube.com/watch?v=S_E2EHVxNAE
+https://www.youtube.com/watch?v=JWA5hJl4Dv0
+https://www.youtube.com/watch?v=Pkh8UtuejGw
+https://www.youtube.com/watch?v=26PAgklYYvo
+https://www.youtube.com/watch?v=RBumgq5yVrA
+https://www.youtube.com/watch?v=oyEuk8j8imI
+https://www.youtube.com/watch?v=UDDMYw_IZnE
+https://www.youtube.com/watch?v=0zGcUoRlhmw
+https://www.youtube.com/watch?v=lY2yjAdbvdQ
+https://www.youtube.com/watch?v=ysHNqInR3TE
+https://www.youtube.com/watch?v=LNArCBr6rrs
+https://www.youtube.com/watch?v=dgTkDRMWHV0
+https://www.youtube.com/watch?v=_Qshh7EAsHo
+https://www.youtube.com/watch?v=nmjdaBaZe8Y
+https://www.youtube.com/watch?v=LjhCEhWiKXk
+https://www.youtube.com/watch?v=jUe8uoKdHao
+https://www.youtube.com/watch?v=a81eP2E8MEQ
+https://www.youtube.com/watch?v=MwpMEbgC7DA
+https://www.youtube.com/watch?v=Ey_hgKCCYU4
+https://www.youtube.com/watch?v=I_QpDE-Uco0
+https://www.youtube.com/watch?v=4jq0PSjEOow
+https://www.youtube.com/watch?v=450p7goxZqg
+https://www.youtube.com/watch?v=7iDfvoqOhD8
+https://www.youtube.com/watch?v=b7k0a5hYnSI
+https://www.youtube.com/watch?v=AG-erEMhumc
+https://www.youtube.com/watch?v=BiQIc7fG9pA
+https://www.youtube.com/watch?v=FLhmxjrWxQc
+https://www.youtube.com/watch?v=hGp8tdppK5I
+
+--------------------------------------------------
+Nieudane pobrania z playlisty:
+https://www.youtube.com/watch?v=N_YcD_yESk8 - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Faydee - Cant Let Go (Official Video).mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Faydee - Cant Let Go (Official Video).mp3'
+--------------------------------------------------
+2024-06-03 19:40:25
+Brak piosenek w pliku songs.txt.
+Udane pobrania z playlisty:
+https://www.youtube.com/watch?v=it_04dk_97E
+https://www.youtube.com/watch?v=450p7goxZqg
+https://www.youtube.com/watch?v=JRfuAukYTKg
+https://www.youtube.com/watch?v=8UVNT4wvIGY
+https://www.youtube.com/watch?v=SR6iYWJxHqs
+https://www.youtube.com/watch?v=oyEuk8j8imI
+https://www.youtube.com/watch?v=iX-QaNzd-0Y
+https://www.youtube.com/watch?v=RBumgq5yVrA
+https://www.youtube.com/watch?v=V1bFr2SWP1I
+https://www.youtube.com/watch?v=YujtzuLLYQU
+https://www.youtube.com/watch?v=4ZHwu0uut3k
+https://www.youtube.com/watch?v=4pBo-GL9SRg
+https://www.youtube.com/watch?v=WcIcVapfqXw
+https://www.youtube.com/watch?v=b8I-7Wk_Vbc
+https://www.youtube.com/watch?v=I0czvJ_jikg
+https://www.youtube.com/watch?v=AG-erEMhumc
+https://www.youtube.com/watch?v=zABLecsR5UE
+https://www.youtube.com/watch?v=2Vv-BfVoq4g
+https://www.youtube.com/watch?v=lp-EO5I60KA
+https://www.youtube.com/watch?v=MwpMEbgC7DA
+https://www.youtube.com/watch?v=ekzHIouo8Q4
+https://www.youtube.com/watch?v=cHHLHGNpCSA
+https://www.youtube.com/watch?v=9Sc-ir2UwGU
+https://www.youtube.com/watch?v=F90Cw4l-8NY
+https://www.youtube.com/watch?v=60ItHLz5WEA
+https://www.youtube.com/watch?v=9BMwcO6_hyA
+https://www.youtube.com/watch?v=lDK9QqIzhwk
+https://www.youtube.com/watch?v=X-TkrWpO75k
+https://www.youtube.com/watch?v=ZoG5jJ3E8rg
+https://www.youtube.com/watch?v=UyG1FG3H6rY
+https://www.youtube.com/watch?v=-RQNe52jkao
+https://www.youtube.com/watch?v=ek2PDE1cAyY
+https://www.youtube.com/watch?v=DE9IchvpOPk
+https://www.youtube.com/watch?v=gH476CxJxfg
+https://www.youtube.com/watch?v=DksSPZTZES0
+https://www.youtube.com/watch?v=2vjPBrBU-TM
+https://www.youtube.com/watch?v=VbfpW0pbvaU
+https://www.youtube.com/watch?v=Tog4FpNCjQ0
+https://www.youtube.com/watch?v=QJO3ROT-A4E
+https://www.youtube.com/watch?v=ipBVXuEd3r8
+https://www.youtube.com/watch?v=kxloC1MKTpg
+https://www.youtube.com/watch?v=weeI1G46q0o
+https://www.youtube.com/watch?v=lY2yjAdbvdQ
+https://www.youtube.com/watch?v=papuvlVeZg8
+https://www.youtube.com/watch?v=AXnqkVTFUqY
+https://www.youtube.com/watch?v=N6O2ncUKvlg
+https://www.youtube.com/watch?v=26PAgklYYvo
+https://www.youtube.com/watch?v=nfs8NYg7yQM
+https://www.youtube.com/watch?v=ZAfAud_M_mg
+https://www.youtube.com/watch?v=FLhmxjrWxQc
+https://www.youtube.com/watch?v=EEuQU6a90Pc
+https://www.youtube.com/watch?v=tQ0yjYUFKAE
+https://www.youtube.com/watch?v=MPbUaIZAaeA
+https://www.youtube.com/watch?v=ByfFurjQDb0
+https://www.youtube.com/watch?v=3AyMjyHu1bA
+https://www.youtube.com/watch?v=hEdvvTF5js4
+https://www.youtube.com/watch?v=Vs3LXhqm5h4
+https://www.youtube.com/watch?v=_epVgBDPBOg
+https://www.youtube.com/watch?v=QUuKvHHt8Sk
+https://www.youtube.com/watch?v=EkHTsc9PU2A
+https://www.youtube.com/watch?v=GgASxM_Ju_c
+https://www.youtube.com/watch?v=7JJfJgyHYwU
+https://www.youtube.com/watch?v=7spBU4Yv8fE
+https://www.youtube.com/watch?v=GsF05B8TFWg
+https://www.youtube.com/watch?v=SJOKlqJho8U
+https://www.youtube.com/watch?v=0s3o1kXlxzo
+https://www.youtube.com/watch?v=uelHwf8o7_U
+https://www.youtube.com/watch?v=iAP9AF6DCu4
+https://www.youtube.com/watch?v=h2dg1NUx8CI
+https://www.youtube.com/watch?v=nIjVuRTm-dc
+https://www.youtube.com/watch?v=pE49WK-oNjU
+https://www.youtube.com/watch?v=ox4tmEV6-QU
+https://www.youtube.com/watch?v=BX0lKSa_PTk
+https://www.youtube.com/watch?v=iFJdHDE9cgs
+https://www.youtube.com/watch?v=I_QpDE-Uco0
+https://www.youtube.com/watch?v=koVHN6eO4Xg
+https://www.youtube.com/watch?v=6Mgqbai3fKo
+https://www.youtube.com/watch?v=aaXDzh_zoqM
+https://www.youtube.com/watch?v=a59gmGkq_pw
+https://www.youtube.com/watch?v=A_g3lMcWVy0
+https://www.youtube.com/watch?v=IC8qPpnD0uE
+https://www.youtube.com/watch?v=6GUm5g8SG4o
+https://www.youtube.com/watch?v=VBmEJZofz2s
+https://www.youtube.com/watch?v=Io0fBr1XBUA
+https://www.youtube.com/watch?v=D5drYkLiLI8
+https://www.youtube.com/watch?v=P9-4xHVc7uk
+https://www.youtube.com/watch?v=7gwO8-oqwFw
+https://www.youtube.com/watch?v=qEvS9grK9Bw
+https://www.youtube.com/watch?v=afH7Kpaoi7A
+https://www.youtube.com/watch?v=4t6rQDxJwno
+https://www.youtube.com/watch?v=d-mZwL4Bh6E
+https://www.youtube.com/watch?v=Jqs5EaAaueA
+https://www.youtube.com/watch?v=mzB1VGEGcSU
+https://www.youtube.com/watch?v=btrzs54s1Rc
+https://www.youtube.com/watch?v=xpVfcZ0ZcFM
+https://www.youtube.com/watch?v=ysHNqInR3TE
+https://www.youtube.com/watch?v=LNArCBr6rrs
+https://www.youtube.com/watch?v=7wQzmIK-GfU
+https://www.youtube.com/watch?v=0iIk_N217q0
+https://www.youtube.com/watch?v=T_AbBfVyjqg
+https://www.youtube.com/watch?v=SpmCfl2UrPc
+https://www.youtube.com/watch?v=aatr_2MstrI
+https://www.youtube.com/watch?v=8JnfIa84TnU
+https://www.youtube.com/watch?v=8fEoWA9Vz3A
+https://www.youtube.com/watch?v=4jq0PSjEOow
+https://www.youtube.com/watch?v=KV2ssT8lzj8
+https://www.youtube.com/watch?v=IcrbM1l_BoI
+https://www.youtube.com/watch?v=UtF6Jej8yb4
+https://www.youtube.com/watch?v=hXI8RQYC36Q
+https://www.youtube.com/watch?v=50VNCymT-Cs
+https://www.youtube.com/watch?v=v_dJAI_1veM
+https://www.youtube.com/watch?v=b7k0a5hYnSI
+https://www.youtube.com/watch?v=oxqnFJ3lp5k
+https://www.youtube.com/watch?v=eWUC5Q0RCAA
+https://www.youtube.com/watch?v=BzUet_Ge3DI
+https://www.youtube.com/watch?v=ykW4rtW2eu0
+https://www.youtube.com/watch?v=mnZip8RkNyY
+https://www.youtube.com/watch?v=V-IA7H9TqYc
+https://www.youtube.com/watch?v=wzMrK-aGCug
+https://www.youtube.com/watch?v=jIoEaTN7GGo
+https://www.youtube.com/watch?v=iI34LYmJ1Fs
+https://www.youtube.com/watch?v=h3EJICKwITw
+https://www.youtube.com/watch?v=fbHbTBP_u7U
+https://www.youtube.com/watch?v=3AtDnEC4zak
+https://www.youtube.com/watch?v=Mhj15W23IjA
+https://www.youtube.com/watch?v=6EEW-9NDM5k
+https://www.youtube.com/watch?v=xo1VInw-SKc
+https://www.youtube.com/watch?v=Wq8BqYus40A
+https://www.youtube.com/watch?v=9eakEQSBR8o
+https://www.youtube.com/watch?v=xQOO2xGQ1Pc
+https://www.youtube.com/watch?v=XpCurm2Ip5w
+https://www.youtube.com/watch?v=d8ekz_CSBVg
+https://www.youtube.com/watch?v=nzalnIKug94
+https://www.youtube.com/watch?v=JE9urbO7bNU
+https://www.youtube.com/watch?v=y8trd3gjJt0
+https://www.youtube.com/watch?v=rZjpsT7VgNU
+https://www.youtube.com/watch?v=0AqnCSdkjQ0
+https://www.youtube.com/watch?v=8CdcCD5V-d8
+https://www.youtube.com/watch?v=o9K0lsK6qLM
+https://www.youtube.com/watch?v=r_0JjYUe5jo
+https://www.youtube.com/watch?v=6mEx9FtuN0k
+https://www.youtube.com/watch?v=kn6-c223DUU
+https://www.youtube.com/watch?v=yMR382aefmQ
+https://www.youtube.com/watch?v=K533gW3boIY
+https://www.youtube.com/watch?v=RFS5N_yAGTo
+https://www.youtube.com/watch?v=j5-yKhDd64s
+https://www.youtube.com/watch?v=7xzU9Qqdqww
+https://www.youtube.com/watch?v=e5QEAI_O2IA
+https://www.youtube.com/watch?v=mRD0-GxqHVo
+https://www.youtube.com/watch?v=ZDXXi19_7iE
+https://www.youtube.com/watch?v=LJsVDH-3b3Y
+https://www.youtube.com/watch?v=9I9Ar6upx34
+https://www.youtube.com/watch?v=2ggzxInyzVE
+https://www.youtube.com/watch?v=5r8G3SEGIV0
+https://www.youtube.com/watch?v=Fu_J4QPr8To
+https://www.youtube.com/watch?v=HxL19VWL9TM
+https://www.youtube.com/watch?v=8piAL5rD6wI
+https://www.youtube.com/watch?v=MQyHyfLp5NI
+https://www.youtube.com/watch?v=GLfEU5lelUM
+https://www.youtube.com/watch?v=97v9Z9qMI-4
+
+--------------------------------------------------
+Nieudane pobrania z playlisty:
+https://www.youtube.com/watch?v=F4yb0CBd4I4 - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Beautiful.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Beautiful.mp3'
+https://www.youtube.com/watch?v=BiEEJds8JFE - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Glad You Came.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Glad You Came.mp3'
+--------------------------------------------------
+2024-06-03 19:49:51
+Brak piosenek w pliku songs.txt.
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-06-03 19:49:58
+Brak piosenek w pliku songs.txt.
+Udane pobrania z playlisty:
+https://www.youtube.com/watch?v=5dbEhBKGOtY
+https://www.youtube.com/watch?v=NUVCQXMUVnI
+https://www.youtube.com/watch?v=mIIN_SGQy9c
+https://www.youtube.com/watch?v=bKDdT_nyP54
+https://www.youtube.com/watch?v=y_SI2EDM6Lo
+https://www.youtube.com/watch?v=koVHN6eO4Xg
+https://www.youtube.com/watch?v=oUbpGmR1-QM
+https://www.youtube.com/watch?v=pBI3lc18k8Q
+https://www.youtube.com/watch?v=ZoG5jJ3E8rg
+https://www.youtube.com/watch?v=nmjdaBaZe8Y
+https://www.youtube.com/watch?v=O0lf_fE3HwA
+https://www.youtube.com/watch?v=8PTDv_szmL0
+https://www.youtube.com/watch?v=UyG1FG3H6rY
+https://www.youtube.com/watch?v=LjhCEhWiKXk
+https://www.youtube.com/watch?v=fLexgOxsZu0
+https://www.youtube.com/watch?v=JRfuAukYTKg
+https://www.youtube.com/watch?v=L_jWHffIx5E
+https://www.youtube.com/watch?v=fWNaR-rxAic
+https://www.youtube.com/watch?v=prmmCg5bKxA
+https://www.youtube.com/watch?v=FDyWuL6lq6w
+https://www.youtube.com/watch?v=xXD5tltX9Pg
+https://www.youtube.com/watch?v=WBKnpyoFEBo
+https://www.youtube.com/watch?v=_HKH7Emy1SY
+https://www.youtube.com/watch?v=RgoiSJ23cSc
+https://www.youtube.com/watch?v=CIk45fEWBok
+https://www.youtube.com/watch?v=vGPG91x5eMY
+https://www.youtube.com/watch?v=_wjFahULCK8
+https://www.youtube.com/watch?v=E2lX1ZovtcA
+https://www.youtube.com/watch?v=4dsmTehsrnI
+https://www.youtube.com/watch?v=CwdrtwZiQ9E
+https://www.youtube.com/watch?v=1y6smkh6c-0
+https://www.youtube.com/watch?v=WTJSt4wP2ME
+https://www.youtube.com/watch?v=5jlI4uzZGjU
+https://www.youtube.com/watch?v=ElFjZ_AAF_g
+https://www.youtube.com/watch?v=07A_ETyZ6zY
+https://www.youtube.com/watch?v=YWRcqF4FNqg
+https://www.youtube.com/watch?v=vjW8wmF5VWc
+https://www.youtube.com/watch?v=uUL8a7eJCk8
+https://www.youtube.com/watch?v=yqsJsO8H-oA
+https://www.youtube.com/watch?v=QOowQeKyNkQ
+https://www.youtube.com/watch?v=2zw_zoRQKhU
+https://www.youtube.com/watch?v=8WYHDfJDPDc
+https://www.youtube.com/watch?v=Avx35Mjkkhw
+https://www.youtube.com/watch?v=D5z9dEZdEbk
+https://www.youtube.com/watch?v=CitDwC_Rjic
+https://www.youtube.com/watch?v=otCpCn0l4Wo
+https://www.youtube.com/watch?v=HyHNuVaZJ-k
+https://www.youtube.com/watch?v=4mtfnfQoAco
+https://www.youtube.com/watch?v=er1vbzb4Cxk
+https://www.youtube.com/watch?v=IZAGzXE54jY
+https://www.youtube.com/watch?v=IjuYS3FYrA0
+https://www.youtube.com/watch?v=-RQNe52jkao
+https://www.youtube.com/watch?v=FotCW5OIFZc
+https://www.youtube.com/watch?v=V2DxJW6ytSs
+https://www.youtube.com/watch?v=hWjrMTWXH28
+https://www.youtube.com/watch?v=QNJL6nfu__Q
+https://www.youtube.com/watch?v=Zi_XLOBDo_Y
+https://www.youtube.com/watch?v=aLEhh_XpJ-0
+https://www.youtube.com/watch?v=T2PAkPp0_bY
+https://www.youtube.com/watch?v=RFS5N_yAGTo
+https://www.youtube.com/watch?v=zA52uNzx7Y4
+https://www.youtube.com/watch?v=cvvd-9azD1M
+https://www.youtube.com/watch?v=CQf13Mbza9k
+https://www.youtube.com/watch?v=4V90AmXnguw
+https://www.youtube.com/watch?v=Coq-OlEdZQ8
+https://www.youtube.com/watch?v=60ItHLz5WEA
+https://www.youtube.com/watch?v=1RnPB76mjxI
+https://www.youtube.com/watch?v=A68j28KQaik
+https://www.youtube.com/watch?v=gEnbrtsFveI
+https://www.youtube.com/watch?v=ek2PDE1cAyY
+https://www.youtube.com/watch?v=DE9IchvpOPk
+https://www.youtube.com/watch?v=DksSPZTZES0
+https://www.youtube.com/watch?v=gH476CxJxfg
+https://www.youtube.com/watch?v=MrTz5xjmso4
+https://www.youtube.com/watch?v=FThuVI_maAs
+https://www.youtube.com/watch?v=SR6iYWJxHqs
+https://www.youtube.com/watch?v=X1Fqn9du7xo
+https://www.youtube.com/watch?v=oofSnsGkops
+https://www.youtube.com/watch?v=F90Cw4l-8NY
+https://www.youtube.com/watch?v=SDTZ7iX4vTQ
+https://www.youtube.com/watch?v=tgIqecROs5M
+https://www.youtube.com/watch?v=VrDfSZ_6f4U
+https://www.youtube.com/watch?v=lSOsaeGwWaw
+https://www.youtube.com/watch?v=nqWFKms5J_M
+https://www.youtube.com/watch?v=qHxlzcAPbBE
+https://www.youtube.com/watch?v=BXpdmKELE1k
+https://www.youtube.com/watch?v=47dtFZ8CFo8
+https://www.youtube.com/watch?v=IcrbM1l_BoI
+https://www.youtube.com/watch?v=kOn-HdEg6AQ
+https://www.youtube.com/watch?v=LRPGqNeav_M
+https://www.youtube.com/watch?v=a2CTWkTQY6A
+https://www.youtube.com/watch?v=rIyPtzxtAXg
+https://www.youtube.com/watch?v=i2lUuNPf-p4
+https://www.youtube.com/watch?v=v0NSeysrDYw
+https://www.youtube.com/watch?v=jzy2dgEUOhY
+https://www.youtube.com/watch?v=wyx6JDQCslE
+https://www.youtube.com/watch?v=t-yCg-0-baE
+https://www.youtube.com/watch?v=140ImixpY7M
+https://www.youtube.com/watch?v=CSD2J8yaMmM
+https://www.youtube.com/watch?v=GJzF7H2e3Tw
+https://www.youtube.com/watch?v=gOfOt76D3MM
+https://www.youtube.com/watch?v=dLhFDYQHDQY
+https://www.youtube.com/watch?v=kn6-c223DUU
+https://www.youtube.com/watch?v=3OnnDqH6Wj8
+https://www.youtube.com/watch?v=kYtGl1dX5qI
+https://www.youtube.com/watch?v=2ggzxInyzVE
+https://www.youtube.com/watch?v=vWaRiD5ym74
+https://www.youtube.com/watch?v=qpgTC9MDx1o
+https://www.youtube.com/watch?v=KRaWnd3LJfs
+https://www.youtube.com/watch?v=Wa5B22KAkEk
+https://www.youtube.com/watch?v=8aRor905cCw
+https://www.youtube.com/watch?v=qMxX-QOV9tI
+https://www.youtube.com/watch?v=uelHwf8o7_U
+https://www.youtube.com/watch?v=jGflUbPQfW8
+https://www.youtube.com/watch?v=OpQFFLBMEPI
+https://www.youtube.com/watch?v=2vjPBrBU-TM
+https://www.youtube.com/watch?v=nYh-n7EOtMA
+https://www.youtube.com/watch?v=fRh_vgS2dFE
+https://www.youtube.com/watch?v=YqeW9_5kURI
+https://www.youtube.com/watch?v=5GL9JoH4Sws
+https://www.youtube.com/watch?v=kJQP7kiw5Fk
+https://www.youtube.com/watch?v=2fngvQS_PmQ
+https://www.youtube.com/watch?v=mWRsgZuwf_8
+https://www.youtube.com/watch?v=lp-EO5I60KA
+https://www.youtube.com/watch?v=yzTuBuRdAyA
+https://www.youtube.com/watch?v=AtKZKl7Bgu0
+https://www.youtube.com/watch?v=7JJfJgyHYwU
+https://www.youtube.com/watch?v=TGtWWb9emYI
+https://www.youtube.com/watch?v=Ro7yHf_pU14
+https://www.youtube.com/watch?v=25LBTSUEU0A
+https://www.youtube.com/watch?v=aAQZPBwz2CI
+https://www.youtube.com/watch?v=C-dvTjK_07c
+https://www.youtube.com/watch?v=SgM3r8xKfGE
+https://www.youtube.com/watch?v=UqXVgAmqBOs
+https://www.youtube.com/watch?v=VbfpW0pbvaU
+https://www.youtube.com/watch?v=iP6XpLQM2Cs
+https://www.youtube.com/watch?v=edP0L6LQzZE
+https://www.youtube.com/watch?v=hHUbLv4ThOo
+https://www.youtube.com/watch?v=CcCw1ggftuQ
+https://www.youtube.com/watch?v=j3CaHeakZF4
+https://www.youtube.com/watch?v=QK8mJJJvaes
+https://www.youtube.com/watch?v=ZaI2IlHwmgQ
+https://www.youtube.com/watch?v=yyDUC1LUXSU
+https://www.youtube.com/watch?v=CdXesX6mYUE
+https://www.youtube.com/watch?v=bpOR_HuHRNs
+https://www.youtube.com/watch?v=Sv6dMFF_yts
+https://www.youtube.com/watch?v=Tog4FpNCjQ0
+https://www.youtube.com/watch?v=SmM0653YvXU
+https://www.youtube.com/watch?v=jUe8uoKdHao
+https://www.youtube.com/watch?v=Kdm1P27dVBQ
+https://www.youtube.com/watch?v=QJO3ROT-A4E
+https://www.youtube.com/watch?v=nfWlot6h_JM
+https://www.youtube.com/watch?v=4fndeDfaWCg
+https://www.youtube.com/watch?v=jofNR_WkoCE
+https://www.youtube.com/watch?v=a81eP2E8MEQ
+https://www.youtube.com/watch?v=S-VveKWBz_k
+https://www.youtube.com/watch?v=GccwGBwqODw
+https://www.youtube.com/watch?v=T_AbBfVyjqg
+https://www.youtube.com/watch?v=ipBVXuEd3r8
+https://www.youtube.com/watch?v=LJsVDH-3b3Y
+https://www.youtube.com/watch?v=w15oWDh02K4
+https://www.youtube.com/watch?v=6_BGKyAKigs
+https://www.youtube.com/watch?v=rSOzN0eihsE
+https://www.youtube.com/watch?v=dzFYVHErXTo
+https://www.youtube.com/watch?v=0J3vgcE5i2o
+https://www.youtube.com/watch?v=J1Wd1-688fg
+https://www.youtube.com/watch?v=6J1-eYBbspA
+https://www.youtube.com/watch?v=SpmCfl2UrPc
+https://www.youtube.com/watch?v=x1TsfShR5ZY
+https://www.youtube.com/watch?v=J4bt_tVLSNc
+https://www.youtube.com/watch?v=1lyu1KKwC74
+https://www.youtube.com/watch?v=qeMFqkcPYcg
+https://www.youtube.com/watch?v=17ozSeGw-fY
+https://www.youtube.com/watch?v=m-M1AtrxztU
+https://www.youtube.com/watch?v=G33JIlbomp4
+https://www.youtube.com/watch?v=9-SQGOYOjxs
+https://www.youtube.com/watch?v=QUuKvHHt8Sk
+https://www.youtube.com/watch?v=T3E9Wjbq44E
+https://www.youtube.com/watch?v=XGXZOQ8yTU4
+https://www.youtube.com/watch?v=TlYVZWExYE8
+https://www.youtube.com/watch?v=WJM7DNwxypA
+https://www.youtube.com/watch?v=4ZHwu0uut3k
+https://www.youtube.com/watch?v=p4kVWCSzfK4
+https://www.youtube.com/watch?v=w55Nib4uf1U
+https://www.youtube.com/watch?v=U5rLz5AZBIA
+https://www.youtube.com/watch?v=tDq3fNew1rU
+https://www.youtube.com/watch?v=pUjE9H8QlA4
+https://www.youtube.com/watch?v=JrlfFTS9kGU
+https://www.youtube.com/watch?v=Mo4cmTaEDIk
+https://www.youtube.com/watch?v=UONnRMuuDps
+https://www.youtube.com/watch?v=mmW1t4Y5UtE
+https://www.youtube.com/watch?v=wEzHUFvGO0Q
+https://www.youtube.com/watch?v=e2vBLd5Egnk
+https://www.youtube.com/watch?v=D5drYkLiLI8
+https://www.youtube.com/watch?v=kxloC1MKTpg
+https://www.youtube.com/watch?v=weeI1G46q0o
+https://www.youtube.com/watch?v=B5YNiCfWC3A
+https://www.youtube.com/watch?v=lY2yjAdbvdQ
+https://www.youtube.com/watch?v=aJOTlE1K90k
+https://www.youtube.com/watch?v=dT2owtxkU8k
+https://www.youtube.com/watch?v=_dK2tDK9grQ
+https://www.youtube.com/watch?v=sG6aWhZnbfw
+https://www.youtube.com/watch?v=RqcjBLMaWCg
+https://www.youtube.com/watch?v=papuvlVeZg8
+https://www.youtube.com/watch?v=6GUm5g8SG4o
+https://www.youtube.com/watch?v=asDT9orOzfc
+https://www.youtube.com/watch?v=RIZdjT1472Y
+https://www.youtube.com/watch?v=y83x7MgzWOA
+https://www.youtube.com/watch?v=wOem06X3uVo
+https://www.youtube.com/watch?v=sHYLRWBPsZk
+https://www.youtube.com/watch?v=TgjTKbLfW2E
+https://www.youtube.com/watch?v=4yqBgfz-xLE
+https://www.youtube.com/watch?v=-IA6h38ZBB4
+https://www.youtube.com/watch?v=Pkh8UtuejGw
+https://www.youtube.com/watch?v=QpbQ4I3Eidg
+https://www.youtube.com/watch?v=mzB1VGEGcSU
+https://www.youtube.com/watch?v=aatr_2MstrI
+https://www.youtube.com/watch?v=3Eul-QAtN6c
+https://www.youtube.com/watch?v=Dsp_8Lm1eSk
+https://www.youtube.com/watch?v=o3mP3mJDL2k
+https://www.youtube.com/watch?v=HpyZEzrDf4c
+https://www.youtube.com/watch?v=fV4DiAyExN0
+https://www.youtube.com/watch?v=nIjVuRTm-dc
+https://www.youtube.com/watch?v=gnhXHvRoUd0
+https://www.youtube.com/watch?v=6Ejga4kJUts
+https://www.youtube.com/watch?v=jVO8sUrs-Pw
+https://www.youtube.com/watch?v=psuRGfAaju4
+https://www.youtube.com/watch?v=5JxgDJvqGmM
+https://www.youtube.com/watch?v=7NJqUN9TClM
+https://www.youtube.com/watch?v=AXnqkVTFUqY
+https://www.youtube.com/watch?v=iAP9AF6DCu4
+https://www.youtube.com/watch?v=eM213aMKTHg
+https://www.youtube.com/watch?v=Ra-Om7UMSJc
+https://www.youtube.com/watch?v=rJYcmq__nDM
+https://www.youtube.com/watch?v=N6O2ncUKvlg
+https://www.youtube.com/watch?v=26PAgklYYvo
+https://www.youtube.com/watch?v=nfs8NYg7yQM
+https://www.youtube.com/watch?v=kPBzTxZQG5Q
+https://www.youtube.com/watch?v=7spBU4Yv8fE
+https://www.youtube.com/watch?v=6Whgn_iE5uc
+https://www.youtube.com/watch?v=7r3bdTzTsf8
+https://www.youtube.com/watch?v=3AtDnEC4zak
+https://www.youtube.com/watch?v=xo1VInw-SKc
+https://www.youtube.com/watch?v=Wq8BqYus40A
+https://www.youtube.com/watch?v=ZAfAud_M_mg
+https://www.youtube.com/watch?v=CIJ6vb3b4T0
+https://www.youtube.com/watch?v=LdH7aFjDzjI
+https://www.youtube.com/watch?v=ilw-qmqZ5zY
+https://www.youtube.com/watch?v=98WtmW-lfeE
+https://www.youtube.com/watch?v=WA4iX5D9Z64
+https://www.youtube.com/watch?v=vNoKguSdy4Y
+https://www.youtube.com/watch?v=FLhmxjrWxQc
+https://www.youtube.com/watch?v=Y9CvjAVPGSg
+https://www.youtube.com/watch?v=VV1XWJN3nJo
+https://www.youtube.com/watch?v=4pBo-GL9SRg
+https://www.youtube.com/watch?v=9eakEQSBR8o
+https://www.youtube.com/watch?v=EEuQU6a90Pc
+https://www.youtube.com/watch?v=IivMdPi-dXs
+https://www.youtube.com/watch?v=QH2a6V-W87U
+https://www.youtube.com/watch?v=qPTfXwPf_HM
+https://www.youtube.com/watch?v=X9_n8jakvWU
+https://www.youtube.com/watch?v=d8ekz_CSBVg
+https://www.youtube.com/watch?v=lL2ZwXj1tXM
+https://www.youtube.com/watch?v=tQ0yjYUFKAE
+https://www.youtube.com/watch?v=2-MBfn8XjIU
+https://www.youtube.com/watch?v=igNVdlXhKcI
+https://www.youtube.com/watch?v=xwtdhWltSIg
+https://www.youtube.com/watch?v=MPbUaIZAaeA
+https://www.youtube.com/watch?v=JE9urbO7bNU
+https://www.youtube.com/watch?v=y8trd3gjJt0
+https://www.youtube.com/watch?v=zNl00mOSnJI
+https://www.youtube.com/watch?v=cH4E_t3m3xM
+https://www.youtube.com/watch?v=8EJ3zbKTWQ8
+https://www.youtube.com/watch?v=K5KAc5CoCuk
+https://www.youtube.com/watch?v=wVyggTKDcOE
+https://www.youtube.com/watch?v=ByfFurjQDb0
+https://www.youtube.com/watch?v=znQbwP51GYQ
+https://www.youtube.com/watch?v=ucD0gTr66ho
+https://www.youtube.com/watch?v=U0CGsw6h60k
+https://www.youtube.com/watch?v=My2FRPA3Gf8
+https://www.youtube.com/watch?v=OrTyD7rjBpw
+https://www.youtube.com/watch?v=ZSM3w1v-A_Y
+https://www.youtube.com/watch?v=kXYiU_JCYtU
+https://www.youtube.com/watch?v=CFJtRiKgLhE
+https://www.youtube.com/watch?v=3YxaaGgTQYM
+https://www.youtube.com/watch?v=Xn676-fLq7I
+https://www.youtube.com/watch?v=bo_efYhYU2A
+https://www.youtube.com/watch?v=PIh2xe4jnpk
+https://www.youtube.com/watch?v=cjVQ36NhbMk
+https://www.youtube.com/watch?v=I0czvJ_jikg
+https://www.youtube.com/watch?v=zABLecsR5UE
+https://www.youtube.com/watch?v=r00ikilDxW4
+https://www.youtube.com/watch?v=5NPBIwQyPWE
+https://www.youtube.com/watch?v=uuZE_IRwLNI
+https://www.youtube.com/watch?v=3AyMjyHu1bA
+https://www.youtube.com/watch?v=xyqQ4iT4IeU
+https://www.youtube.com/watch?v=GTbKorqc56o
+https://www.youtube.com/watch?v=hEdvvTF5js4
+https://www.youtube.com/watch?v=Vs3LXhqm5h4
+https://www.youtube.com/watch?v=bnVUHWCynig
+https://www.youtube.com/watch?v=EkHTsc9PU2A
+https://www.youtube.com/watch?v=450p7goxZqg
+https://www.youtube.com/watch?v=73_DOquGBD4
+https://www.youtube.com/watch?v=_epVgBDPBOg
+https://www.youtube.com/watch?v=J3UjJ4wKLkg
+https://www.youtube.com/watch?v=AG-erEMhumc
+https://www.youtube.com/watch?v=yWEK4v9AVKQ
+https://www.youtube.com/watch?v=B4AaIx0Ggz4
+https://www.youtube.com/watch?v=rZjpsT7VgNU
+https://www.youtube.com/watch?v=GgASxM_Ju_c
+https://www.youtube.com/watch?v=UAWcs5H-qgQ
+https://www.youtube.com/watch?v=N_YcD_yESk8
+https://www.youtube.com/watch?v=F4yb0CBd4I4
+https://www.youtube.com/watch?v=KV2ssT8lzj8
+https://www.youtube.com/watch?v=0AqnCSdkjQ0
+https://www.youtube.com/watch?v=8CdcCD5V-d8
+https://www.youtube.com/watch?v=o9K0lsK6qLM
+https://www.youtube.com/watch?v=r_0JjYUe5jo
+https://www.youtube.com/watch?v=lpxpHQ9ggUE
+https://www.youtube.com/watch?v=xat1GVnl8-k
+https://www.youtube.com/watch?v=EeE7CfNs7Js
+https://www.youtube.com/watch?v=Le_IyYLrUtQ
+https://www.youtube.com/watch?v=OUyfQLd3bCs
+https://www.youtube.com/watch?v=CDl9ZMfj6aE
+https://www.youtube.com/watch?v=uzj5VHxHi7M
+https://www.youtube.com/watch?v=7iNbnineUCI
+https://www.youtube.com/watch?v=HEXWRTEbj1I
+https://www.youtube.com/watch?v=fJ9rUzIMcZQ
+https://www.youtube.com/watch?v=IT1MYxNOcmI
+https://www.youtube.com/watch?v=hXI8RQYC36Q
+https://www.youtube.com/watch?v=RBumgq5yVrA
+https://www.youtube.com/watch?v=MwpMEbgC7DA
+https://www.youtube.com/watch?v=9BMwcO6_hyA
+https://www.youtube.com/watch?v=lDK9QqIzhwk
+https://www.youtube.com/watch?v=X-TkrWpO75k
+https://www.youtube.com/watch?v=SJOKlqJho8U
+https://www.youtube.com/watch?v=0s3o1kXlxzo
+https://www.youtube.com/watch?v=cN4fNaUAMbA
+https://www.youtube.com/watch?v=95HqlWRFrAk
+https://www.youtube.com/watch?v=IC8qPpnD0uE
+https://www.youtube.com/watch?v=IxxstCcJlsc
+https://www.youtube.com/watch?v=zvCBSSwgtg4
+https://www.youtube.com/watch?v=nSDgHBxUbVQ
+https://www.youtube.com/watch?v=J55bvcVUM24
+https://www.youtube.com/watch?v=WSWrepLjTKc
+https://www.youtube.com/watch?v=8fEoWA9Vz3A
+https://www.youtube.com/watch?v=50VNCymT-Cs
+https://www.youtube.com/watch?v=ox4tmEV6-QU
+https://www.youtube.com/watch?v=Ahha3Cqe_fk
+https://www.youtube.com/watch?v=6RLLOEzdxsM
+https://www.youtube.com/watch?v=7iDfvoqOhD8
+https://www.youtube.com/watch?v=8gFCW3PHBws
+https://www.youtube.com/watch?v=AoKzuHQ_wJc
+https://www.youtube.com/watch?v=iqIq4B1rgl4
+https://www.youtube.com/watch?v=_ae5Ap77b7k
+https://www.youtube.com/watch?v=mnZip8RkNyY
+https://www.youtube.com/watch?v=QCQR7eyaiJM
+https://www.youtube.com/watch?v=ontU9cOg354
+https://www.youtube.com/watch?v=rp4UwPZfRis
+https://www.youtube.com/watch?v=6Mgqbai3fKo
+https://www.youtube.com/watch?v=aaXDzh_zoqM
+https://www.youtube.com/watch?v=a59gmGkq_pw
+https://www.youtube.com/watch?v=A_g3lMcWVy0
+https://www.youtube.com/watch?v=GLfEU5lelUM
+https://www.youtube.com/watch?v=v_dJAI_1veM
+https://www.youtube.com/watch?v=b7k0a5hYnSI
+https://www.youtube.com/watch?v=oxqnFJ3lp5k
+https://www.youtube.com/watch?v=eWUC5Q0RCAA
+https://www.youtube.com/watch?v=VBmEJZofz2s
+https://www.youtube.com/watch?v=Io0fBr1XBUA
+https://www.youtube.com/watch?v=PT2_F-1esPk
+https://www.youtube.com/watch?v=P9-4xHVc7uk
+https://www.youtube.com/watch?v=UDDMYw_IZnE
+https://www.youtube.com/watch?v=7gwO8-oqwFw
+https://www.youtube.com/watch?v=qEvS9grK9Bw
+https://www.youtube.com/watch?v=afH7Kpaoi7A
+https://www.youtube.com/watch?v=4t6rQDxJwno
+https://www.youtube.com/watch?v=d-mZwL4Bh6E
+https://www.youtube.com/watch?v=Jqs5EaAaueA
+https://www.youtube.com/watch?v=0zGcUoRlhmw
+https://www.youtube.com/watch?v=btrzs54s1Rc
+https://www.youtube.com/watch?v=xpVfcZ0ZcFM
+https://www.youtube.com/watch?v=iFJdHDE9cgs
+https://www.youtube.com/watch?v=ysHNqInR3TE
+https://www.youtube.com/watch?v=LNArCBr6rrs
+https://www.youtube.com/watch?v=dgTkDRMWHV0
+https://www.youtube.com/watch?v=7wQzmIK-GfU
+https://www.youtube.com/watch?v=_Qshh7EAsHo
+https://www.youtube.com/watch?v=K3yqlF_8Qt8
+https://www.youtube.com/watch?v=Ey_hgKCCYU4
+https://www.youtube.com/watch?v=I_QpDE-Uco0
+https://www.youtube.com/watch?v=4jq0PSjEOow
+https://www.youtube.com/watch?v=JWA5hJl4Dv0
+https://www.youtube.com/watch?v=UtF6Jej8yb4
+https://www.youtube.com/watch?v=cHHLHGNpCSA
+https://www.youtube.com/watch?v=BzUet_Ge3DI
+https://www.youtube.com/watch?v=wzMrK-aGCug
+https://www.youtube.com/watch?v=jIoEaTN7GGo
+https://www.youtube.com/watch?v=iI34LYmJ1Fs
+https://www.youtube.com/watch?v=h3EJICKwITw
+https://www.youtube.com/watch?v=fbHbTBP_u7U
+https://www.youtube.com/watch?v=Mhj15W23IjA
+https://www.youtube.com/watch?v=BiQIc7fG9pA
+https://www.youtube.com/watch?v=6EEW-9NDM5k
+https://www.youtube.com/watch?v=p_RqWocthcc
+https://www.youtube.com/watch?v=42Xjdy_gG_o
+https://www.youtube.com/watch?v=xQOO2xGQ1Pc
+https://www.youtube.com/watch?v=XpCurm2Ip5w
+https://www.youtube.com/watch?v=nzalnIKug94
+https://www.youtube.com/watch?v=it_04dk_97E
+https://www.youtube.com/watch?v=6mEx9FtuN0k
+https://www.youtube.com/watch?v=yMR382aefmQ
+https://www.youtube.com/watch?v=K533gW3boIY
+https://www.youtube.com/watch?v=j5-yKhDd64s
+https://www.youtube.com/watch?v=7xzU9Qqdqww
+https://www.youtube.com/watch?v=e5QEAI_O2IA
+https://www.youtube.com/watch?v=eVTXPUF4Oz4
+https://www.youtube.com/watch?v=mRD0-GxqHVo
+https://www.youtube.com/watch?v=ZDXXi19_7iE
+https://www.youtube.com/watch?v=9I9Ar6upx34
+https://www.youtube.com/watch?v=5r8G3SEGIV0
+https://www.youtube.com/watch?v=Fu_J4QPr8To
+https://www.youtube.com/watch?v=8piAL5rD6wI
+https://www.youtube.com/watch?v=MQyHyfLp5NI
+https://www.youtube.com/watch?v=97v9Z9qMI-4
+
+--------------------------------------------------
+Nieudane pobrania z playlisty:
+https://www.youtube.com/watch?v=Kr4EQDVETuA - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Billie Jean.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Billie Jean.mp3'
+https://www.youtube.com/watch?v=HTiLJAeYTQY - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Dilemma.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Dilemma.mp3'
+https://www.youtube.com/watch?v=w4s6H4ku6ZY - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Like A G6.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Like A G6.mp3'
+https://www.youtube.com/watch?v=p-Z3YrHJ1sU - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Stereo Love.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Stereo Love.mp3'
+https://www.youtube.com/watch?v=8JnfIa84TnU - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Solo.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Solo.mp3'
+https://www.youtube.com/watch?v=DK6ZaRVRsXo - 'NoneType' object has no attribute 'download'
+https://www.youtube.com/watch?v=JGwWNGJdvx8 - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Shape of You.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Shape of You.mp3'
+https://www.youtube.com/watch?v=0iIk_N217q0 - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Beautiful.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Beautiful.mp3'
+https://www.youtube.com/watch?v=BiEEJds8JFE - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Glad You Came.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Glad You Came.mp3'
+--------------------------------------------------

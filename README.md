@@ -1,6 +1,6 @@
 # Youtube downloader single songs / whole playlists
 
-1. Add single song's link to file songs.txt. Every song's link  should be separated be new line
+1. Add single song's link to file songs.txt. Every song's link  should be separated by a new line
 	* first link
 	* second link
 	* third link etc.
@@ -9,6 +9,5 @@
 	* second playlist's link
 	* third playlist's link etc.
 3. Songs will be stored in folder named downloaded
-4. File download_history.txt containts informations about succesfully and failed downloads with given reason (error)
+4. File download_history.txt contains information about successfully and failed downloads with given reason (error)
 5. Input .txt files will be cleared out after program will end.
-
