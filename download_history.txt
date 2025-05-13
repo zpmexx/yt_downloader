@@ -818,3 +818,209 @@ https://www.youtube.com/watch?v=JGwWNGJdvx8 - [WinError 183] Nie mo¿na utworzyæ 
 https://www.youtube.com/watch?v=0iIk_N217q0 - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Beautiful.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Beautiful.mp3'
 https://www.youtube.com/watch?v=BiEEJds8JFE - [WinError 183] Nie mo¿na utworzyæ pliku, który ju¿ istnieje: 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Glad You Came.mp4' -> 'C:\\Users\\Z\\Desktop\\git\\download music\\./downloaded/Glad You Came.mp3'
 --------------------------------------------------
+2024-10-08 22:21:53
+Brak piosenek w pliku songs.txt.
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-10-08 22:27:15
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=KrfvZWzVgqw - HTTP Error 400: Bad Request
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-10-08 22:28:00
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=KrfvZWzVgqw - HTTP Error 400: Bad Request
+https://www.youtube.com/watch?v=NxAISvTX9zQ - get_throttling_function_name: could not find match for multiple
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2024-10-08 22:28:37
+--------------------------------------------------
+Nieudane pobrania:
+https://www.youtube.com/watch?v=NxAISvTX9zQ - get_throttling_function_name: could not find match for multiple
+--------------------------------------------------
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2025-01-05 14:56:21
+Brak piosenek w pliku songs.txt.
+2025-01-05 14:57:49
+Brak piosenek w pliku songs.txt.
+--------------------------------------------------
+Nieudane pobrania z playlisty:
+https://www.youtube.com/watch?v=YgFyi74DVjc - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=wQJIkbvUVPQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=ttWQK5VXskA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Uuq6HgKgEFQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=yYNgJ7OU-3k - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=yvfmbrrwgT4 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Y1fZH0s_5L8 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=NlmezywdxPI - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=SQCSxqScSVQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Do5MMmEygsY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=eXvBjCO19QY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=dARAN1z2KqY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Wa6ZkaJfYso - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=KnEXrbAQyIo - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=LefQdEMJP1I - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Kbj2Zss-5GY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=qdsTUfDTEhQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=L7_jYl8A73g - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=xvZqHgFz51I - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=lcOxhH8N3Bo - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=PGNiXGX2nLU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Gf1WT8VEZxk - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=s6TtwR2Dbjg - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=0Gl2QnHNpkA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=wp43OdtAAkM - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=6GCNUeTFSbA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Lgs9QUtWc3M - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4G6QDNC4jPs - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Qq4j1LtCdww - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Bx51eegLTY8 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4L_yCwFD6Jo - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=bWcASV2sey0 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=eFjjO_lhf9c - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=PJ7E40Ec5ec - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=6p-lDYPR2P8 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=eNvUS-6PTbs - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=djV11Xbc914 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=izGwDsrQ1eQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=aGSKrC7dGcY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=OKvCV8MFIaw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4kHl4FoK1Ys - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=ZS4gQWsVRcA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=rQSmfR1_SVE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Lp2qcCrdBLA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=JmcA9LIIXWw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=j2F4INQFjEI - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=QYHxGBH6o4M - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=I_izvAbhExY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=unfzfe8f9NI - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=ZHwVBirqD2s - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4BQLE_RrTSU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=16y1AkoZkmQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=3KFvoDDs0XM - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=d-diB65scQU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=S_E2EHVxNAE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=XEjLoHdbVeE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=xFrGuyw1V8s - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=WlTlUseVt7E - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=dQw4w9WgXcQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=HgzGwKwLmgM - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=79fzeNUqQbQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=hTWKbfoikeg - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=OMOGaugKpzs - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=zMeBtd8z9go - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=vx2u5uUu3DE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Nntd2fgMUYw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=6Ejga4kJUts - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=FTQbiNvZqaY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=EK_LN3XEcnw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=t99KH0TR-J4 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=tl6u2NASUzU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=qjzJYa7tHLs - HTTP Error 403: Forbidden
+--------------------------------------------------
+2025-01-05 15:00:29
+Brak piosenek w pliku songs.txt.
+2025-01-05 15:00:35
+Brak piosenek w pliku songs.txt.
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2025-01-05 15:02:35
+Brak piosenek w pliku songs.txt.
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2025-01-05 15:02:49
+Brak piosenek w pliku songs.txt.
+--------------------------------------------------
+Nieudane pobrania z playlisty:
+https://www.youtube.com/watch?v=YgFyi74DVjc - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=wQJIkbvUVPQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=ttWQK5VXskA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Uuq6HgKgEFQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=yYNgJ7OU-3k - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=yvfmbrrwgT4 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Y1fZH0s_5L8 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=NlmezywdxPI - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=SQCSxqScSVQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Do5MMmEygsY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=eXvBjCO19QY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=dARAN1z2KqY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Wa6ZkaJfYso - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=KnEXrbAQyIo - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=LefQdEMJP1I - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Kbj2Zss-5GY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=qdsTUfDTEhQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=L7_jYl8A73g - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=xvZqHgFz51I - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=lcOxhH8N3Bo - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=PGNiXGX2nLU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Gf1WT8VEZxk - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=s6TtwR2Dbjg - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=0Gl2QnHNpkA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=wp43OdtAAkM - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=6GCNUeTFSbA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Lgs9QUtWc3M - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4G6QDNC4jPs - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Qq4j1LtCdww - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Bx51eegLTY8 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4L_yCwFD6Jo - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=bWcASV2sey0 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=eFjjO_lhf9c - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=PJ7E40Ec5ec - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=6p-lDYPR2P8 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=eNvUS-6PTbs - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=djV11Xbc914 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=izGwDsrQ1eQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=aGSKrC7dGcY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=OKvCV8MFIaw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4kHl4FoK1Ys - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=ZS4gQWsVRcA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=rQSmfR1_SVE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Lp2qcCrdBLA - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=JmcA9LIIXWw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=j2F4INQFjEI - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=QYHxGBH6o4M - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=I_izvAbhExY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=unfzfe8f9NI - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=ZHwVBirqD2s - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=4BQLE_RrTSU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=16y1AkoZkmQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=3KFvoDDs0XM - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=d-diB65scQU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=S_E2EHVxNAE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=XEjLoHdbVeE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=xFrGuyw1V8s - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=WlTlUseVt7E - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=dQw4w9WgXcQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=HgzGwKwLmgM - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=79fzeNUqQbQ - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=hTWKbfoikeg - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=OMOGaugKpzs - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=zMeBtd8z9go - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=vx2u5uUu3DE - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=Nntd2fgMUYw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=6Ejga4kJUts - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=FTQbiNvZqaY - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=EK_LN3XEcnw - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=t99KH0TR-J4 - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=tl6u2NASUzU - HTTP Error 403: Forbidden
+https://www.youtube.com/watch?v=qjzJYa7tHLs - HTTP Error 403: Forbidden
+--------------------------------------------------
+2025-01-05 15:04:27
+Brak piosenek w pliku songs.txt.
+Problem z pobraniem palylist z pliku playlist.txt.
+--------------------------------------------------
+2025-01-05 15:04:31
+Brak piosenek w pliku songs.txt.
+2025-01-05 15:07:00
+Brak piosenek w pliku songs.txt.
+--------------------------------------------------
+Nieudane pobrania z playlisty:
+https://youtube.com/playlist?list=PL7MLhOHeVv7tUH2ucwl6UApUXjdUPO0eU&si=hY-LAaAS5xQmSCv2 - [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+--------------------------------------------------
+2025-01-05 15:08:59
+Brak piosenek w pliku songs.txt.

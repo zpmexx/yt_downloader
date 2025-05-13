@@ -1,52 +1,83 @@
-# importing packages 
-from pytube import YouTube, Playlist
+# Importing packages
+import os
+from yt_dlp import YoutubeDL
 import os 
 from datetime import datetime
-
+# Define the destination folder for downloads
 destination_folder = './downloaded/'
 
 def downloadSongs(songList):
+    """Downloads individual songs from the given list of URLs."""
     succedList = []
     failDict = {}
+    ydl_opts = {
+        'format': 'bestaudio/best',
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
+        }],
+        'outtmpl': os.path.join(destination_folder, '%(title)s.%(ext)s'),
+    }
+
     for song in songList:
         try:
-            yt = YouTube(song) 
-            video = yt.streams.filter(only_audio=True).first() 
-            destination = destination_folder
-            out_file = video.download(output_path=destination) 
-            base, ext = os.path.splitext(out_file) 
-            new_file = base + '.mp3'
-            os.rename(out_file, new_file) 
-            succedList.append(song)
+            with YoutubeDL(ydl_opts) as ydl:
+                ydl.download([song])
+                succedList.append(song)
+                print(f"Downloaded successfully: {song}")
         except Exception as e:
-            failDict[song] = e
+            failDict[song] = str(e)
+            print(f"Failed to download: {song}, Error: {e}")
+
     return succedList, failDict
 
-def downloadPlaylist(playlist_url):
+
+def downloadPlaylist(playlist_urls):
+    """Downloads playlists by iterating over individual video URLs."""
     succedPlaylistList = []
     failPlaylistDict = {}
-    for playlist in playlist_url:
-        print(playlist)
+    ydl_opts = {
+        'format': 'bestaudio/best',
+        'postprocessors': [{
+            'key': 'FFmpegExtractAudio',
+            'preferredcodec': 'mp3',
+            'preferredquality': '192',
+        }],
+        'outtmpl': os.path.join(destination_folder, '%(playlist_title)s/%(title)s.%(ext)s'),
+    }
+
+    for playlist_url in playlist_urls:
+        print(f"Processing playlist: {playlist_url}")
         try:
-            playlist = Playlist(playlist)
-            for video in playlist.video_urls:
+            # Extract playlist information
+            with YoutubeDL({'quiet': True}) as ydl:
+                playlist_info = ydl.extract_info(playlist_url, download=False)
+
+            # Check if the URL is a valid playlist
+            if 'entries' not in playlist_info:
+                raise ValueError("The provided URL is not a valid playlist.")
+
+            # Iterate through video entries in the playlist
+            for entry in playlist_info['entries']:
                 try:
-                    yt = YouTube(video)
-                    audio_stream = yt.streams.filter(only_audio=True).first()
-
-                    destination = destination_folder
-
-                    out_file = audio_stream.download(output_path=destination)
-                    base, ext = os.path.splitext(out_file)
-                    new_file = base + '.mp3'
-                    os.rename(out_file, new_file)
-                    succedPlaylistList.append(video)
+                    video_url = entry['url']
+                    print(f"Processing video: {entry['title']} ({video_url})")
+                    with YoutubeDL(ydl_opts) as ydl:
+                        ydl.download([video_url])
+                        succedPlaylistList.append(video_url)
+                        print(f"Downloaded video successfully: {entry['title']}")
                 except Exception as e:
-                    failPlaylistDict[video] = str(e)
+                    failPlaylistDict[entry['url']] = str(e)
+                    print(f"Failed to download video: {entry['title']}, Error: {e}")
 
         except Exception as e:
-            failPlaylistDict[playlist] = str(e)
-        
+            failPlaylistDict[playlist_url] = str(e)
+            print(f"Failed to process playlist: {playlist_url}, Error: {e}")
+
+    print("Summary:")
+    print(f"Successful: {len(succedPlaylistList)}")
+    print(f"Failed: {len(failPlaylistDict)}")
     return succedPlaylistList, failPlaylistDict
 
 
